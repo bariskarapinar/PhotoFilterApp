@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Merzigo FilterApp</string>
+    <string name="activity_title_main"> </string>
+    <string name="filters"> </string>
+
+    <string name="tab_filters"> </string>
+
+    <string name="filter_normal">Normal</string>
+    <string name="action_save"> </string>
+    <string name="action_open"> </string>
+</resources>
