@@ -1,4 +1,4 @@
-# Merzigo-FilterApp
+# PhotoFilterApp
  
 The application has created to use filters on photos. When user starts the application, user can select photo from his gallery, use filters and save the filtered photo.
  
